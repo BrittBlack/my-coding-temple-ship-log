@@ -1,1 +1,1 @@
-This is my new navigation methods filegit 
+This is my new navigation methods file
