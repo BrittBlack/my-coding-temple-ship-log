@@ -16,13 +16,28 @@ A. Basics of Variables:
 
 B. Variable Assignment:
     a. Explore how to assign values to variables.
-        A variable can have a short name (like x and y) or a more descriptive name (age, carname, total_volume). Rules for Python variables:
-A variable name must start with a letter or the underscore character
-A variable name cannot start with a number
-A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )
-Variable names are case-sensitive (age, Age and AGE are three different variables)
-A variable name cannot be any of the Python keywords.
+    Python allows you to assign values to multiple variables in one line.
+
+    b. Can a variable hold multiple values?
+    Make sure the number of variables matches the number of values, or else you will get an error.
+url: https://www.w3schools.com/python/python_variables_multiple.asp
+
+
+C. Variable Naming Convention:
+    a. Research the rules and conventions for naming variables.
+
+                A variable can have a short name (like x and y) or a more descriptive name (age, carname, total_volume). Rules for Python variables:
+    A variable name must start with a letter or the underscore character
+    A variable name cannot start with a number
+    A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )
+    Variable names are case-sensitive (age, Age and AGE are three different variables)
+    A variable name cannot be any of the Python keywords.
 url: https://www.w3schools.com/python/python_variables_names.asp
+
+
+
+    b. Identify a list of reserved keywords that can't be used as variable names.
+
 
 Python has a set of keywords that are reserved words that cannot be used as variable names, function names, or any other identifiers:
 
