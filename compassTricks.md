@@ -4,3 +4,5 @@ Some cool tricks to remember:
                 git merge
                 git branch file name
                 git checkout branch name
+                git rebase
+                git push origin
