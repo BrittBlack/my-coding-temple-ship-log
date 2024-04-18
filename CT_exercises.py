@@ -1,3 +1,4 @@
+#Pre-Work
 #This is a print
 print('this is a comment')
 
@@ -8,6 +9,7 @@ a = "hi!"
 if 9 > 5:
     print(a)
     
+
 
 #Topic 1; Module 2
 favorite_quote = '''Life is like 
