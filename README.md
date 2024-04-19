@@ -77,3 +77,24 @@ url: https://www.w3schools.com/python/python_variables_names.asp
     with	Used to simplify exception handling
     yield	To return a list of values from a generator
 url: https://www.w3schools.com/python/python_ref_keywords.asp
+
+
+D. Dynamic Typing:
+    a. How does Python handle variable types?
+        In many programming languages, variables are statically typed. That means a variable is initially declared to have a specific data type, and any value assigned to it during its lifetime must always have that type.
+
+        Variables in Python are not subject to this restriction. In Python, a variable may be assigned a value of one type and then later re-assigned a value of a different type:
+
+url: https://realpython.com/python-variables/#variable-types-in-python
+
+    
+    b. Look into how a variable's type can change during runtime. 
+
+        
+
+
+E. Multiple Assignments:
+
+    a. Can you assign values to multiple variables in a single line? Discover how. 
+
+        url: https://www.w3schools.com/python/python_variables_multiple.asp
